@@ -1,0 +1,5 @@
+#ignore logic js
+logic.js
+
+# ignore autodir folder and its content
+autodir/*

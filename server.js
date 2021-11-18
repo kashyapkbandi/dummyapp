@@ -7,3 +7,8 @@ function fetchOrgName(Orgname) {
 function ruleId() {
     return Date.UTC;
 }
+
+
+function ruleIdDevops3() {
+    return Date.UTC;
+}

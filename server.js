@@ -12,3 +12,7 @@ function ruleId() {
 function ruleIdDevops3() {
     return Date.UTC;
 }
+
+function ruleIdDevops4() {
+    return Date.UTC;
+}
